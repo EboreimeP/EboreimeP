@@ -1,0 +1,6 @@
+"Hi, I am Precious. I have a background in Microbiology (BSc. and MSc). In 2022, I enrolled for an MSc in Bioinformatics and Computational Genomics at Queen's University Belfast, United Kingdom, and graduated in 2023. During my time at Queen's, I developed my analytical, storytelling (from data), and presentation skills. I am skilled in R (programming language), SQL, Tableau, and Excel. Prior to this time, I worked as a Scientific Officer at the National Board for Technology Incubation (NBTI), Nigeria, from 2014 to 2022. The National Board for Technology Incubation (NBTI) is a parastatal of the Federal Government of Nigeria tasked with the commercialization of Research and Development. The parastatal incubates entrepreneurs, providing their businesses with technical and innovative support to help them mature. At NBTI, I supported entrepreneurs with technical and scientific know-how, reducing the time required for the certification of their products. I created and maintained a database of entrepreneurs for easy documentation and record-keeping. I also created various dashboards, tracking and updating KPIs to be eventually reported to the Government."
+
+<!---
+EboreimeP/EboreimeP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
